@@ -8,7 +8,7 @@ import sun.tools.jar.Main;
  * @Version 1.0
  */
 public class TestMain {
-    public void SysOut(){
-        System.out.printf("hello wolrd");
-    }
+   public static  void main(String[] args){
+       System.out.println("hello world");
+   }
 }
