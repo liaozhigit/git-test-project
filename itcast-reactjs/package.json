@@ -1,0 +1,9 @@
+{
+  "name": "itcast-reactjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^3.2.16"
+  }
+}
